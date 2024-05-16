@@ -1,0 +1,18 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "device": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Vinicius Ferreira Ferraz",
+  "license": "ISC",
+  "description": "Fullstack IoT application",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
